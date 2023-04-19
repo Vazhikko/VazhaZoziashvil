@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/firstFragment"
+        android:title="First"
+        android:icon="@drawable/ic_baseline_diamond_24"/>
+    <item android:id="@+id/secondFragment"
+        android:title="Second"
+        android:icon="@drawable/ic_baseline_directions_car_24"/>
+    <item android:id="@+id/thirdFragment"
+        android:title="Third"
+        android:icon="@drawable/ic_baseline_expand_circle_down_24"/>
+</menu>
